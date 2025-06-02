@@ -1,0 +1,242 @@
+[
+  {
+    "codigo": "L001",
+    "autor": "Machado de Assis",
+    "titulo": "Dom Casmurro",
+    "ano": 1899,
+    "capa": "https://via.placeholder.com/150x220?text=Dom+Casmurro",
+    "editora": "Editora X"
+  },
+  {
+    "codigo": "L002",
+    "autor": "Joaquim Manuel de Macedo",
+    "titulo": "A Moreninha",
+    "ano": 1844,
+    "capa": "https://via.placeholder.com/150x220?text=A+Moreninha",
+    "editora": "Editora Y"
+  },
+  {
+    "codigo": "L003",
+    "autor": "José de Alencar",
+    "titulo": "Iracema",
+    "ano": 1865,
+    "capa": "https://via.placeholder.com/150x220?text=Iracema",
+    "editora": "Editora Z"
+  },
+  {
+    "codigo": "L004",
+    "autor": "Clarice Lispector",
+    "titulo": "A Hora da Estrela",
+    "ano": 1977,
+    "capa": "https://via.placeholder.com/150x220?text=A+Hora+da+Estrela",
+    "editora": "Editora A"
+  },
+  {
+    "codigo": "L005",
+    "autor": "Paulo Coelho",
+    "titulo": "O Alquimista",
+    "ano": 1988,
+    "capa": "https://via.placeholder.com/150x220?text=O+Alquimista",
+    "editora": "Editora B"
+  },
+  {
+    "codigo": "L006",
+    "autor": "Graciliano Ramos",
+    "titulo": "Vidas Secas",
+    "ano": 1938,
+    "capa": "https://via.placeholder.com/150x220?text=Vidas+Secas",
+    "editora": "Editora C"
+  },
+  {
+    "codigo": "L007",
+    "autor": "Carlos Drummond de Andrade",
+    "titulo": "Alguma Poesia",
+    "ano": 1930,
+    "capa": "https://via.placeholder.com/150x220?text=Alguma+Poesia",
+    "editora": "Editora D"
+  },
+  {
+    "codigo": "L008",
+    "autor": "Érico Veríssimo",
+    "titulo": "O Tempo e o Vento",
+    "ano": 1949,
+    "capa": "https://via.placeholder.com/150x220?text=O+Tempo+e+o+Vento",
+    "editora": "Editora E"
+  },
+  {
+    "codigo": "L009",
+    "autor": "Monteiro Lobato",
+    "titulo": "O Sítio do Picapau Amarelo",
+    "ano": 1920,
+    "capa": "https://via.placeholder.com/150x220?text=O+Sítio+do+Picapau+Amarelo",
+    "editora": "Editora F"
+  },
+  {
+    "codigo": "L010",
+    "autor": "José Saramago",
+    "titulo": "Ensaio sobre a Cegueira",
+    "ano": 1995,
+    "capa": "https://via.placeholder.com/150x220?text=Ensaio+s+obre+a+Cegueira",
+    "editora": "Editora G"
+  },
+  {
+    "codigo": "L011",
+    "autor": "Jorge Amado",
+    "titulo": "Gabriela, Cravo e Canela",
+    "ano": 1958,
+    "capa": "https://via.placeholder.com/150x220?text=Gabriela",
+    "editora": "Editora H"
+  },
+  {
+    "codigo": "L012",
+    "autor": "Lygia Fagundes Telles",
+    "titulo": "Ciranda de Pedra",
+    "ano": 1954,
+    "capa": "https://via.placeholder.com/150x220?text=Ciranda+de+Pedra",
+    "editora": "Editora I"
+  },
+  {
+    "codigo": "L013",
+    "autor": "Machado de Assis",
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "ano": 1881,
+    "capa": "https://via.placeholder.com/150x220?text=Memórias+Póstumas",
+    "editora": "Editora J"
+  },
+  {
+    "codigo": "L014",
+    "autor": "José de Alencar",
+    "titulo": "Senhora",
+    "ano": 1875,
+    "capa": "https://via.placeholder.com/150x220?text=Senhora",
+    "editora": "Editora K"
+  },
+  {
+    "codigo": "L015",
+    "autor": "Carlos Heitor Cony",
+    "titulo": "Quase Memória",
+    "ano": 1995,
+    "capa": "https://via.placeholder.com/150x220?text=Quase+Memória",
+    "editora": "Editora L"
+  },
+  {
+    "codigo": "L016",
+    "autor": "Rubem Fonseca",
+    "titulo": "Feliz Ano Novo",
+    "ano": 1975,
+    "capa": "https://via.placeholder.com/150x220?text=Feliz+Ano+Novo",
+    "editora": "Editora M"
+  },
+  {
+    "codigo": "L017",
+    "autor": "Clarice Lispector",
+    "titulo": "Perto do Coração Selvagem",
+    "ano": 1943,
+    "capa": "https://via.placeholder.com/150x220?text=Perto+do+Coração+Selvagem",
+    "editora": "Editora N"
+  },
+  {
+    "codigo": "L018",
+    "autor": "José Lins do Rego",
+    "titulo": "Menino de Engenho",
+    "ano": 1932,
+    "capa": "https://via.placeholder.com/150x220?text=Menino+de+Engenho",
+    "editora": "Editora O"
+  },
+  {
+    "codigo": "L019",
+    "autor": "Graciliano Ramos",
+    "titulo": "São Bernardo",
+    "ano": 1934,
+    "capa": "https://via.placeholder.com/150x220?text=São+Bernardo",
+    "editora": "Editora P"
+  },
+  {
+    "codigo": "L020",
+    "autor": "Monteiro Lobato",
+    "titulo": "Urupês",
+    "ano": 1918,
+    "capa": "https://via.placeholder.com/150x220?text=Urupês",
+    "editora": "Editora Q"
+  },
+  {
+    "codigo": "L021",
+    "autor": "Jorge Amado",
+    "titulo": "Dona Flor e Seus Dois Maridos",
+    "ano": 1966,
+    "capa": "https://via.placeholder.com/150x220?text=Dona+Flor",
+    "editora": "Editora R"
+  },
+  {
+    "codigo": "L022",
+    "autor": "Érico Veríssimo",
+    "titulo": "Incidente em Antares",
+    "ano": 1971,
+    "capa": "https://via.placeholder.com/150x220?text=Incidente+em+Antares",
+    "editora": "Editora S"
+  },
+  {
+    "codigo": "L023",
+    "autor": "Lygia Fagundes Telles",
+    "titulo": "As Meninas",
+    "ano": 1973,
+    "capa": "https://via.placeholder.com/150x220?text=As+Meninas",
+    "editora": "Editora T"
+  },
+  {
+    "codigo": "L024",
+    "autor": "José Saramago",
+    "titulo": "O Evangelho Segundo Jesus Cristo",
+    "ano": 1991,
+    "capa": "https://via.placeholder.com/150x220?text=Evangelho+Segundo+Jesus",
+    "editora": "Editora U"
+  },
+  {
+    "codigo": "L025",
+    "autor": "Paulo Coelho",
+    "titulo": "Brida",
+    "ano": 1990,
+    "capa": "https://via.placeholder.com/150x220?text=Brida",
+    "editora": "Editora V"
+  },
+  {
+    "codigo": "L026",
+    "autor": "Rubem Braga",
+    "titulo": "O Conde e o Passarinho",
+    "ano": 1963,
+    "capa": "https://via.placeholder.com/150x220?text=O+Conde+e+o+Passarinho",
+    "editora": "Editora W"
+  },
+  {
+    "codigo": "L027",
+    "autor": "Chico Buarque",
+    "titulo": "Budapeste",
+    "ano": 2003,
+    "capa": "https://via.placeholder.com/150x220?text=Budapeste",
+    "editora": "Editora X"
+  },
+  {
+    "codigo": "L028",
+    "autor": "Machado de Assis",
+    "titulo": "Quincas Borba",
+    "ano": 1891,
+    "capa": "https://via.placeholder.com/150x220?text=Quincas+Borba",
+    "editora": "Editora Y"
+  },
+  {
+    "codigo": "L029",
+    "autor": "José de Alencar",
+    "titulo": "Senhora",
+    "ano": 1875,
+    "capa": "https://via.placeholder.com/150x220?text=Senhora",
+    "editora": "Editora Z"
+  },
+  {
+    "codigo": "L030",
+    "autor": "Clarice Lispector",
+    "titulo": "Água Viva",
+    "ano": 1973,
+    "capa": "https://via.placeholder.com/150x220?text=Água+Viva",
+    "editora": "Editora AA"
+  }
+]
