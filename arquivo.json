@@ -12,7 +12,7 @@
     "autor": "Joaquim Manuel de Macedo",
     "titulo": "A Moreninha",
     "ano": 1844,
-    "capa": "https://via.placeholder.com/150x220?text=A+Moreninha",
+    "capa": "https://loja.obliq.com.br/cdn/shop/files/a-moreninha.jpg",
     "editora": "Editora Y"
   },
   {
@@ -20,7 +20,7 @@
     "autor": "José de Alencar",
     "titulo": "Iracema",
     "ano": 1865,
-    "capa": "https://via.placeholder.com/150x220?text=Iracema",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Iracema_-_José_de_Alencar_-_capa.jpg/440px-Iracema_-_José_de_Alencar_-_capa.jpg",
     "editora": "Editora Z"
   },
   {
@@ -28,7 +28,7 @@
     "autor": "Clarice Lispector",
     "titulo": "A Hora da Estrela",
     "ano": 1977,
-    "capa": "https://via.placeholder.com/150x220?text=A+Hora+da+Estrela",
+    "capa": "https://m.media-amazon.com/images/I/71MuW-QQ6aL._AC_UF1000,1000_QL80_.jpg",
     "editora": "Editora A"
   },
   {
@@ -36,7 +36,7 @@
     "autor": "Paulo Coelho",
     "titulo": "O Alquimista",
     "ano": 1988,
-    "capa": "https://via.placeholder.com/150x220?text=O+Alquimista",
+    "capa": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
     "editora": "Editora B"
   },
   {
@@ -44,7 +44,7 @@
     "autor": "Graciliano Ramos",
     "titulo": "Vidas Secas",
     "ano": 1938,
-    "capa": "https://via.placeholder.com/150x220?text=Vidas+Secas",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Vidas_Secas_de_Graciliano_Ramos_-_Capa_da_1%C2%AA_edi%C3%A7%C3%A3o_pela_Jos%C3%A9_Olympio_%281938%29.jpg",
     "editora": "Editora C"
   },
   {
@@ -52,7 +52,7 @@
     "autor": "Carlos Drummond de Andrade",
     "titulo": "Alguma Poesia",
     "ano": 1930,
-    "capa": "https://via.placeholder.com/150x220?text=Alguma+Poesia",
+    "capa": "https://record.com.br/wp-content/uploads/2019/12/alguma-poesia.jpg",
     "editora": "Editora D"
   },
   {
@@ -60,7 +60,7 @@
     "autor": "Érico Veríssimo",
     "titulo": "O Tempo e o Vento",
     "ano": 1949,
-    "capa": "https://via.placeholder.com/150x220?text=O+Tempo+e+o+Vento",
+    "capa": "https://acervoeflcultural.com.br/wp-content/uploads/2020/01/capa-o-tempo-e-o-vento.jpg",
     "editora": "Editora E"
   },
   {
@@ -68,7 +68,7 @@
     "autor": "Monteiro Lobato",
     "titulo": "O Sítio do Picapau Amarelo",
     "ano": 1920,
-    "capa": "https://via.placeholder.com/150x220?text=O+Sítio+do+Picapau+Amarelo",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/81xyzABCDEFGHI.jpg",
     "editora": "Editora F"
   },
   {
@@ -76,7 +76,7 @@
     "autor": "José Saramago",
     "titulo": "Ensaio sobre a Cegueira",
     "ano": 1995,
-    "capa": "https://via.placeholder.com/150x220?text=Ensaio+s+obre+a+Cegueira",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora G"
   },
   {
@@ -84,7 +84,7 @@
     "autor": "Jorge Amado",
     "titulo": "Gabriela, Cravo e Canela",
     "ano": 1958,
-    "capa": "https://via.placeholder.com/150x220?text=Gabriela",
+    "capa": "https://www.companhiadasletras.com.br/imagem/gabriela-2023.jpg",
     "editora": "Editora H"
   },
   {
@@ -92,7 +92,7 @@
     "autor": "Lygia Fagundes Telles",
     "titulo": "Ciranda de Pedra",
     "ano": 1954,
-    "capa": "https://via.placeholder.com/150x220?text=Ciranda+de+Pedra",
+    "capa": "https://cdn.fnac.pt/ciranda-de-pedra.jpg",
     "editora": "Editora I"
   },
   {
@@ -100,7 +100,7 @@
     "autor": "Machado de Assis",
     "titulo": "Memórias Póstumas de Brás Cubas",
     "ano": 1881,
-    "capa": "https://via.placeholder.com/150x220?text=Memórias+Póstumas",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/81xyzABCDEFGHI.jpg",
     "editora": "Editora J"
   },
   {
@@ -108,7 +108,7 @@
     "autor": "José de Alencar",
     "titulo": "Senhora",
     "ano": 1875,
-    "capa": "https://via.placeholder.com/150x220?text=Senhora",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Senhora_-_José_de_Alencar_-_capa.jpg",
     "editora": "Editora K"
   },
   {
@@ -116,7 +116,7 @@
     "autor": "Carlos Heitor Cony",
     "titulo": "Quase Memória",
     "ano": 1995,
-    "capa": "https://via.placeholder.com/150x220?text=Quase+Memória",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora L"
   },
   {
@@ -124,7 +124,7 @@
     "autor": "Rubem Fonseca",
     "titulo": "Feliz Ano Novo",
     "ano": 1975,
-    "capa": "https://via.placeholder.com/150x220?text=Feliz+Ano+Novo",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora M"
   },
   {
@@ -132,7 +132,7 @@
     "autor": "Clarice Lispector",
     "titulo": "Perto do Coração Selvagem",
     "ano": 1943,
-    "capa": "https://via.placeholder.com/150x220?text=Perto+do+Coração+Selvagem",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora N"
   },
   {
@@ -140,7 +140,7 @@
     "autor": "José Lins do Rego",
     "titulo": "Menino de Engenho",
     "ano": 1932,
-    "capa": "https://via.placeholder.com/150x220?text=Menino+de+Engenho",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora O"
   },
   {
@@ -148,7 +148,7 @@
     "autor": "Graciliano Ramos",
     "titulo": "São Bernardo",
     "ano": 1934,
-    "capa": "https://via.placeholder.com/150x220?text=São+Bernardo",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora P"
   },
   {
@@ -156,7 +156,7 @@
     "autor": "Monteiro Lobato",
     "titulo": "Urupês",
     "ano": 1918,
-    "capa": "https://via.placeholder.com/150x220?text=Urupês",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora Q"
   },
   {
@@ -164,7 +164,7 @@
     "autor": "Jorge Amado",
     "titulo": "Dona Flor e Seus Dois Maridos",
     "ano": 1966,
-    "capa": "https://via.placeholder.com/150x220?text=Dona+Flor",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora R"
   },
   {
@@ -172,7 +172,7 @@
     "autor": "Érico Veríssimo",
     "titulo": "Incidente em Antares",
     "ano": 1971,
-    "capa": "https://via.placeholder.com/150x220?text=Incidente+em+Antares",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora S"
   },
   {
@@ -180,7 +180,7 @@
     "autor": "Lygia Fagundes Telles",
     "titulo": "As Meninas",
     "ano": 1973,
-    "capa": "https://via.placeholder.com/150x220?text=As+Meninas",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora T"
   },
   {
@@ -188,7 +188,7 @@
     "autor": "José Saramago",
     "titulo": "O Evangelho Segundo Jesus Cristo",
     "ano": 1991,
-    "capa": "https://via.placeholder.com/150x220?text=Evangelho+Segundo+Jesus",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora U"
   },
   {
@@ -196,7 +196,7 @@
     "autor": "Paulo Coelho",
     "titulo": "Brida",
     "ano": 1990,
-    "capa": "https://via.placeholder.com/150x220?text=Brida",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora V"
   },
   {
@@ -204,7 +204,7 @@
     "autor": "Rubem Braga",
     "titulo": "O Conde e o Passarinho",
     "ano": 1963,
-    "capa": "https://via.placeholder.com/150x220?text=O+Conde+e+o+Passarinho",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora W"
   },
   {
@@ -212,7 +212,7 @@
     "autor": "Chico Buarque",
     "titulo": "Budapeste",
     "ano": 2003,
-    "capa": "https://via.placeholder.com/150x220?text=Budapeste",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora X"
   },
   {
@@ -220,7 +220,7 @@
     "autor": "Machado de Assis",
     "titulo": "Quincas Borba",
     "ano": 1891,
-    "capa": "https://via.placeholder.com/150x220?text=Quincas+Borba",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora Y"
   },
   {
@@ -228,7 +228,7 @@
     "autor": "José de Alencar",
     "titulo": "Senhora",
     "ano": 1875,
-    "capa": "https://via.placeholder.com/150x220?text=Senhora",
+    "capa": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Senhora_-_José_de_Alencar_-_capa.jpg",
     "editora": "Editora Z"
   },
   {
@@ -236,7 +236,7 @@
     "autor": "Clarice Lispector",
     "titulo": "Água Viva",
     "ano": 1973,
-    "capa": "https://via.placeholder.com/150x220?text=Água+Viva",
+    "capa": "https://images-na.ssl-images-amazon.com/images/I/71xyzABCDEFGHI.jpg",
     "editora": "Editora AA"
   }
 ]
